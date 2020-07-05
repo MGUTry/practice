@@ -1,0 +1,15 @@
+mkdir exercise
+cd exercise
+vim code.text
+:qw
+wgt``````````
+cat code.text
+git init
+ls -la 
+git add code.text
+git status
+git config --global user.name 'ccl'
+git config --global user.email 'xx@mail.com'
+git commit -m 'second commit'
+git remote add origin ''''''''''
+git push origin master
